@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BaiGK</string>
+    <string name="hint1">Nhập tên</string>
+    <string name="hint2">Nhập email</string>
+    <string name="hint3">Nhập mật khẩu</string>
+    <string name="login">Login</string>
+
+</resources>
